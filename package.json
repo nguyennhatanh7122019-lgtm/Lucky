@@ -1,0 +1,13 @@
+{
+  "name": "autodaily-log-web",
+  "version": "1.0.0",
+  "description": "Web nhận log và hiển thị lịch sử mở rương từ AutoDaily bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}
